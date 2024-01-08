@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634334398702",
+    "project_id": "chatgpt-a9ded",
+    "storage_bucket": "chatgpt-a9ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634334398702:android:dccc045aaaab800eb5cbff",
+        "android_client_info": {
+          "package_name": "com.rohitanabhavane.chatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634334398702-j7o5p97ggaqsutc71jl6oa33ni6t7o03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOBoCN8Ej4420tRvHBA0LX8CVxMBIqtZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634334398702-j7o5p97ggaqsutc71jl6oa33ni6t7o03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
